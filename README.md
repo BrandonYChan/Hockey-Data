@@ -1,1 +1,1 @@
-NHL player analyses things with datasets from moneypuck.com 
+NHL player analyses with datasets from moneypuck.com 
