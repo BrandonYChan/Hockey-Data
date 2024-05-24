@@ -1,1 +1,1 @@
-Trying things with dataset from moneypuck.com 
+NHL player analyses things with datasets from moneypuck.com 
